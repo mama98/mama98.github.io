@@ -1,4 +1,4 @@
-## Exile To Home (max 3 players | 1 VR player and 2 non VR player )
+## max 3 players | 1 VR player and 2 non VR player
 
 ![Terminal](pictures/Menu.jpg)
 
