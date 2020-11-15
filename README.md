@@ -1,4 +1,4 @@
-## max 3 players | 1 VR player and 2 non VR player
+## Max 3 players | 1 VR player and 2 Non-VR player
 
 ![Terminal](pictures/Menu.jpg)
 
@@ -21,6 +21,6 @@ The VR player will play the role of a space agent maintaining the station EXILE.
 
 ![Terminal Spaceship](pictures/Terminal_End.png)
 
-This Project is developped by the GameLab team members [Jeremy Ha](https://github.com/Jeremykaito) and [Marine Beurotte](https://github.com/mama98) and funded by the [Centre de Recherche Interdisciplinaire of Paris](https://cri-paris.org/en).
+This Project is the property of [Centre de Recherche Interdisciplinaire of Paris](https://cri-paris.org/en). It was developped by the GameLab team members [Jeremy Ha](https://github.com/Jeremykaito) (Game Designer) and [Marine Beurotte](https://github.com/mama98) (Developper) and funded by the CRI.
 
 [Exile To Home V1](https://projects.cri-paris.org/projects/gTqYqiV1/des)
